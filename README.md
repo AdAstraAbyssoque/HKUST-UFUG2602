@@ -30,7 +30,7 @@ If you find any mistakes or have suggestions to improve the notes, feel free to 
 
 ## License
 
-This work is licensed under a [Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+This work is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Disclaimer
 
