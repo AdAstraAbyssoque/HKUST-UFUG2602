@@ -1,3 +1,5 @@
+> The notes are incomplete because I am taking AU courses, so some of the later content has not been updated. Please forgive me, but fortunately, it's not difficult.
+
 # UFUG2602 Data Structure and Algorithm Design (2024 Spring)
 
 ## Introduction
